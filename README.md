@@ -5,7 +5,7 @@ I developed a web-based To-Do List application using JavaScript that allows user
 
 The goal of this project was to strengthen my understanding of JavaScript for building interactive, client-side applications. By working on this project, I gained practical experience in DOM manipulation, managing events, and implementing features like task counters and date-based task reminders.
 
-[Software Demo Video](https://youtu.be/DiZ1X7TyEBQ)  
+[Software Demo Video](https://www.youtube.com/watch?v=L_dt0q6L8fc)  
 [GitHub Repository](https://github.com/colema01/To-Do-List)
 
 ## Development Environment
